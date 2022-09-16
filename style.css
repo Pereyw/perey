@@ -8,13 +8,14 @@ body{
     background-size: cover;
     background-attachment: fixed;
     overflow: hidden;
-    overflow-y: hidden;
+    overflow-y: visible;
     background-repeat: repeat;
 
 }
 .landing{
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     display: flexbox;
     text-align: right;
     position: relative;
