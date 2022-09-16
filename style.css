@@ -1,0 +1,47 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+    font-family: monospace;
+    background-color: whitesmoke;
+    background-image: url(images/OPD1.jpg);
+    background-size: cover;
+    background-attachment: absolute;
+    overflow: hidden;
+    overflow-y: visible;
+    background-repeat: repeat;
+
+}
+.landing{
+    display: flex;
+    flex-direction: row;
+    display: flexbox;
+    text-align: right;
+    position: relative;
+
+}
+.landing a{
+    text-decoration: none;
+    position: relative;
+}
+.coverpage{
+    
+    image-rendering: optimizeQuality;
+    border-image: repeat;
+    padding-top: 20px;
+    margin-left: 50%;
+}
+.btn-case{
+    height: 30vh;
+    color: aliceblue;
+    justify-content: space-evenly;
+    padding: 20px;
+    margin-top: 30px;
+}
+.use-case ul{
+    list-style: none;
+}
+li{
+    list-style: none;
+}
+    
