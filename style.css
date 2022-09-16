@@ -5,7 +5,7 @@ body{
     font-family: monospace;
     background-color: whitesmoke;
     background-image: url(images/yaa\ \(3\).jpg);
-    background-size: contain;
+    background-size: cover;
     background-attachment: fixed;
     overflow: hidden;
     overflow-y: visible;
@@ -29,8 +29,14 @@ body{
     
     image-rendering: optimizeQuality;
     border-image: repeat;
-    padding-top: 20px;
+    padding-top: 5px;
     margin-left: 50%;
+}
+.coverpage img{
+    border-radius: 20%;
+    border-top-right-radius: 20%;
+    height: 50rem;
+    width: 40rem;
 }
 .btn-case{
     height: 30vh;
