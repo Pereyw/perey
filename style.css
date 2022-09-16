@@ -8,7 +8,7 @@ body{
     background-size: cover;
     background-attachment: fixed;
     overflow: hidden;
-    overflow-y: visible;
+    overflow-y: hidden;
     background-repeat: repeat;
 
 }
