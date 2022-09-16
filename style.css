@@ -6,7 +6,7 @@ body{
     background-color: whitesmoke;
     background-image: url(images/yaa\ \(3\).jpg);
     background-size: cover;
-    background-attachment: absolute;
+    background-attachment: fixed;
     overflow: hidden;
     overflow-y: visible;
     background-repeat: repeat;
