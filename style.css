@@ -74,7 +74,7 @@ li{
     width: 626px;
     height: 352px;
     border-radius: 20px;
-    overflow: hidden;
+    overflow: visible;
 }
 .slides{
     width: 100vh;
